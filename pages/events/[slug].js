@@ -5,8 +5,7 @@ export default function EventPage({ evt }) {
   return (
     <Layout>
       <div>
-
-			</div>
+      </div>
     </Layout>
   )
 }
